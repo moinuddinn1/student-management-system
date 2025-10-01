@@ -30,3 +30,11 @@ student_mgmt/
 ├── assets/             # CSS, JS (Bootstrap, custom)
 ├── logs/               # Error logs
 └── README.md
+
+## 🖼 Screenshots
+
+### 🔐 Login Page
+![Login Screenshot](https://github.com/user-attachments/assets/d7f9ffcc-b94e-483b-b841-6a1ed58c066b)
+
+### 📋 Dashboard
+<img src="https://github.com/user-attachments/assets/d7f9ffcc-b94e-483b-b841-6a1ed58c066b" alt="Dashboard Screenshot" width="800">
