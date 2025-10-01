@@ -1,0 +1,22 @@
+-- Create database
+CREATE DATABASE IF NOT EXISTS student_mgmt;
+USE student_mgmt;
+
+-- Admins table (for login)
+CREATE TABLE IF NOT EXISTS admins (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL, -- store hashed passwords
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Students table
+CREATE TABLE IF NOT EXISTS students (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    age INT NOT NULL,
+    course VARCHAR(100) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
