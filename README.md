@@ -33,4 +33,5 @@ student_mgmt/
 
 ## 🖼 Screenshots
 
-![Login Screenshot](assets/screenshots/1.png)
+![Login Screenshot](asset/screenshots/1.png)
+
