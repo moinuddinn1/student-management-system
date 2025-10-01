@@ -31,14 +31,4 @@ student_mgmt/
 ├── logs/               # Error logs
 └── README.md
 
-## Screenshots
-
-### Login Page
-![Login Page](asset/screenshots/1.png)
-
-### Dashboard with Pagination
-![Dashboard](asset/screenshots/2.png)
-
-### Add Student Form
-![Add Student](asset/screenshots/3.png)
 
