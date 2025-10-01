@@ -31,4 +31,5 @@ student_mgmt/
 ├── logs/               # Error logs
 └── README.md
 
+[asset/screenshots/1.png](https://github.com/moinuddinn1/student-management-system/blob/df23fbbe8262e22741bbc8174ed4e6ea97b02927/asset/screenshots/1.png)
 
