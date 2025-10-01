@@ -33,8 +33,4 @@ student_mgmt/
 
 ## 🖼 Screenshots
 
-### 🔐 Login Page
-![Login Screenshot](https://github.com/user-attachments/assets/d7f9ffcc-b94e-483b-b841-6a1ed58c066b)
-
-### 📋 Dashboard
-<img src="https://github.com/user-attachments/assets/d7f9ffcc-b94e-483b-b841-6a1ed58c066b" alt="Dashboard Screenshot" width="800">
+![Login Screenshot](assets/screenshots/1.png)
